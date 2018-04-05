@@ -191,10 +191,10 @@ BlastDB=$WorkDir/blastall/all.db
 
 
 
-
-# Phylogenetics 
-# Recombination analysis
-# Effector identification through homology to known and through orthomcl look at enrichment in particular strains/groups of different gene families 
-# SignalP
-# Gain and loss of gene families on phylogeny (GLOOME)
-# GWAS
+#To do 
+Phylogenetics 
+Recombination analysis
+Effector identification through homology to known and through orthomcl look at enrichment in particular strains/groups of different gene families 
+SignalP
+Gain and loss of gene families on phylogeny (GLOOME)
+GWAS
